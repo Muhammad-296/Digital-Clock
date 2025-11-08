@@ -355,7 +355,7 @@ Feel free to use and modify for educational purposes.
 
 ## 🌟 Acknowledgments
 
-- Thanks to our instructors for guidance
+- Thanks to our instructors (Associate Professor: Mohamed A. Torad) for guidance
 - AVR community for excellent documentation
 - Microchip for comprehensive datasheets
 
