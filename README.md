@@ -361,6 +361,15 @@ Feel free to use and modify for educational purposes.
 
 ---
 
+<div align="center">
+
+### 📧 Contact
+
+**Have questions or suggestions?**  
+Open an issue or reach out to the team!
+
+---
+
 **⭐ Star this repo if you find it helpful!**
 
 Made with ❤️ by the Microprocessor Team
