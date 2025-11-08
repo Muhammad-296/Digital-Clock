@@ -363,7 +363,7 @@ Feel free to use and modify for educational purposes.
 
 **⭐ Star this repo if you find it helpful!**
 
-Made with ❤️ by the Microprocessor Team
+Made with ❤️ by the Microprocessor GP (5&6) Team
 
 </div>
 
