@@ -372,7 +372,7 @@ Open an issue or reach out to the team!
 
 **⭐ Star this repo if you find it helpful!**
 
-Made with ❤️ by the Microprocessor Team
+Made with ❤️ by the Microprocessor Team GR (5&6)
 
 </div>
 
