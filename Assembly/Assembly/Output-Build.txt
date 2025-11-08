@@ -1,0 +1,29 @@
+﻿------ Build started: Project: Assembly, Configuration: Debug AVR ------
+Build started.
+Project "Assembly.asmproj" (default targets):
+Target "PreBuildEvent" skipped, due to false condition; ('$(PreBuildEvent)'!='') was evaluated as (''!='').
+Target "CoreBuild" in file "C:\Program Files (x86)\Atmel\Studio\7.0\Vs\Assembler.targets" from project "D:\Material\Micro\Mid-Project\Digital Clock\Assembly\Assembly\Assembly.asmproj" (target "Build" depends on it):
+	Task "RunAssemblerTask"
+		C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\avrasm2.exe -fI -o "Assembly.hex"  -m "Assembly.map"  -l "Assembly.lss"  -S "Assembly.tmp"  -W+ie -I"C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc"  -im32Adef.inc -d "D:\Material\Micro\Mid-Project\Digital Clock\Assembly\Assembly\Debug\Assembly.obj"  "D:\Material\Micro\Mid-Project\Digital Clock\Assembly\Assembly\main.asm"  -I "C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include" 
+		AVRASM: AVR macro assembler 2.2.8 (build 80 Jan 14 2020 18:27:50)
+		Copyright (C) 1995-2020 ATMEL Corporation
+		[builtin](2): Including file 'C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m32Adef.inc'
+		D:\Material\Micro\Mid-Project\Digital Clock\Assembly\Assembly\main.asm(7): Including file 'C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m32Adef.inc'
+		[builtin](2): Including file 'C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m32Adef.inc'
+		D:\Material\Micro\Mid-Project\Digital Clock\Assembly\Assembly\main.asm(7): Including file 'C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m32Adef.inc'
+		"ATmega32A" memory use summary [bytes]:
+		Segment   Begin    End      Code   Data   Used    Size   Use%
+		---------------------------------------------------------------
+		[.cseg] 0x000000 0x00109a   3702    510   4212   32768  12.9%
+		[.dseg] 0x000060 0x000090      0     48     48    2048   2.3%
+		[.eseg] 0x000000 0x000000      0      0      0    1024   0.0%
+		Assembly complete, 0 errors. 0 warnings
+	Done executing task "RunAssemblerTask".
+Done building target "CoreBuild" in project "Assembly.asmproj".
+Target "PostBuildEvent" skipped, due to false condition; ('$(PostBuildEvent)' != '') was evaluated as ('' != '').
+Target "Build" in file "C:\Program Files (x86)\Atmel\Studio\7.0\Vs\Avr.common.targets" from project "D:\Material\Micro\Mid-Project\Digital Clock\Assembly\Assembly\Assembly.asmproj" (entry point):
+Done building target "Build" in project "Assembly.asmproj".
+Done building project "Assembly.asmproj".
+
+Build succeeded.
+========== Build: 1 succeeded or up-to-date, 0 failed, 0 skipped ==========
