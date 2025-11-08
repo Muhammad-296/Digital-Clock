@@ -1,7 +1,5 @@
-<div align="center">
-🕐 Digital Clock with Date - ATmega32A
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=Digital+Clock+with+Date;ATmega32A+Microcontroller;Full-Featured+Time+%26+Date+Tracking;C+%26+Assembly+Implementation" alt="Typing SVG" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=&fontSize=0&animation=twinkling" />
+# 🕐 Digital Clock with Date - ATmega32A
+
 <div align="center">
 
 ![ATmega32A](https://img.shields.io/badge/MCU-ATmega32A-blue?style=for-the-badge&logo=arduino)
@@ -361,6 +359,14 @@ Feel free to use and modify for educational purposes.
 - AVR community for excellent documentation
 - Microchip for comprehensive datasheets
 
+---
+
+<div align="center">
+
+### 📧 Contact
+
+**Have questions or suggestions?**  
+Open an issue or reach out to the team!
 
 ---
 
