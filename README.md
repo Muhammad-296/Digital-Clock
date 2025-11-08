@@ -1,14 +1,17 @@
+# 🕐 Digital Clock with Date - ATmega32A
+
 <div align="center">
-🕐✨ Digital Clock with Date ✨🕐
-ATmega32A Microcontroller Project
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=600&lines=Real-Time+Digital+Clock;Full+Calendar+Support;12%2F24+Hour+Format;Leap+Year+Detection" alt="Typing SVG" />
-Show Image
-Show Image
-Show Image
-Show Image
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-🎯 A Full-Featured Real-Time Clock with Advanced Date Tracking
-⚡ Features • 🔧 Hardware • 📥 Installation • 🎮 Usage • 👥 Team
+
+![ATmega32A](https://img.shields.io/badge/MCU-ATmega32A-blue?style=for-the-badge&logo=arduino)
+![Frequency](https://img.shields.io/badge/Clock-1MHz-green?style=for-the-badge)
+![Language](https://img.shields.io/badge/Language-C%20%2F%20Assembly-orange?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-red?style=for-the-badge)
+
+**A full-featured digital clock with date tracking, implemented for the ATmega32A microcontroller**
+
+[Features](#-features) • [Hardware](#-hardware-requirements) • [Installation](#-installation) • [Usage](#-usage) • [Team](#-team)
+
+</div>
 
 ---
 
@@ -356,11 +359,12 @@ Feel free to use and modify for educational purposes.
 - AVR community for excellent documentation
 - Microchip for comprehensive datasheets
 
+
 ---
 
 **⭐ Star this repo if you find it helpful!**
 
-Made with ❤️ by the Microprocessor GP (5&6) Team
+Made with ❤️ by the Microprocessor Team
 
 </div>
 
