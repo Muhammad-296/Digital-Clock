@@ -111,6 +111,16 @@ avrdude -c usbasp -p m32 -U flash:w:clock.hex
 
 Microprocessor Team Mid Project
 
-## Author
+## Authors
 
-Embedded Systems Project - ATmega32A Digital Clock
+Muhammad Ahmed
+
+Abdullah Adel
+
+El-Hassan Mohamed
+
+Saif El-Eslam Abdullah
+
+Mahmoud Naser
+
+Yousef Mohamed
