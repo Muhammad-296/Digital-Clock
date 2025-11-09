@@ -312,8 +312,8 @@ atmega32-digital-clock/
 
 - 📚 [ATmega32A Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/doc2503.pdf)
 - 🎥 [AVR Timer Tutorial](https://www.youtube.com/watch?v=-yr6ku2Jk4M&list=PLgwJf8NK-2e4NfLvfOOr_E9iskgGmyRrJ)
-- 📖 [LCD Interfacing Guide](https://www.electronicwings.com/)
-- 🔧 [Keypad Matrix Tutorial](https://www.circuitbasics.com/)
+- 📖 [LCD Interfacing Guide](https://www.electronicwings.com/avr-atmega/lcd16x2-interfacing-with-atmega16-32)
+- 🔧 [Keypad Matrix Tutorial](https://www.electronicwings.com/avr-atmega/4x4-keypad-interfacing-with-atmega1632)
 
 ---
 
