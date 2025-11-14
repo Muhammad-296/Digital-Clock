@@ -343,7 +343,7 @@ Feel free to use and modify for educational purposes.
 | 👨‍💻 Developer | 🎯 Role |
 |--------------|---------|
 | **Muhammad Ahmed** | Lead Developer |
-| **Abdullah Adel** | Hardware Designer |
+| **Abdullah Abdullwahab** | Hardware Designer |
 | **El-Hassan Mohamed** | Software Engineer |
 | **Saif El-Eslam Abdullah** | Testing & QA |
 | **Mahmoud Naser** | Documentation |
